@@ -19,10 +19,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Documentation
 
-Visit https://ui.shadcn.com/docs to view the documentation.
+Visit [Next Shadcn deployment documentation](https://ui.shadcn.com/docs/installation/next) to view the documentation.
 
 ## Deploy on CloudStation
 
 The easiest way to deploy your Next Shadcn Starter app is to use the [CloudStation Platform](https://cloudstation.io) from the creators of Next.js.
-
-Check out  [Next Shadcn deployment documentation](https://ui.shadcn.com/docs/installation/next) for more details.
