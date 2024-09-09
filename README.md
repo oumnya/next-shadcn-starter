@@ -19,7 +19,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Documentation
 
-Visit [](https://ui.shadcn.com/docs) to view the documentation.
+Visit https://ui.shadcn.com/docs to view the documentation.
 
 ## Deploy on CloudStation
 
